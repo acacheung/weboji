@@ -1,7 +1,7 @@
-"use strict";
+'use strict';
 
 // entry point:
-function main(){
+function main() {
   JeelizWebojiThreeHelper.init({
     isMirror: true,
 
@@ -16,7 +16,7 @@ function main(){
     matParameters: {
       diffuseMapURL: 'textures/Fox_albedo.png',
       specularMapURL: 'textures/Fox_specular.png',
-      flexMapURL: 'textures/Fox_flex.png'
+      flexMapURL: 'textures/Fox_flex.png',
     }, //*/
 
     // HUMAN CREEPY FACE:
@@ -26,7 +26,7 @@ function main(){
     },  //*/
 
     position: [0, -80, 0],
-    scale: 1.2
+    scale: 1.2,
   });
 }
 
