@@ -14,8 +14,8 @@ function main() {
     // RACCOON:
     meshURL: 'meshes/fox11_v0.json',
     matParameters: {
-      diffuseMapURL: 'textures/Fox.jpg',
-      specularMapURL: 'textures/Fox_specular.png',
+      diffuseMapURL: 'textures/Fox4.jpg',
+      specularMapURL: 'textures/Fox_specular2.png',
       flexMapURL: 'textures/Fox_flex.png',
     }, //*/
 
@@ -24,7 +24,6 @@ function main() {
     matParameters: {
       diffuseMapURL: 'textures/skin.jpg'
     },  //*/
-
     position: [0, -80, 0],
     scale: 1.2,
   });
