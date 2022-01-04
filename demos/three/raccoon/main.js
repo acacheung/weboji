@@ -14,7 +14,7 @@ function main() {
     // RACCOON:
     meshURL: 'meshes/fox11_v0.json',
     matParameters: {
-      diffuseMapURL: 'textures/Fox_albedo.png',
+      diffuseMapURL: 'textures/Fox.jpg',
       specularMapURL: 'textures/Fox_specular.png',
       flexMapURL: 'textures/Fox_flex.png',
     }, //*/
