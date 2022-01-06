@@ -10,7 +10,7 @@ function main() {
     NNCPath: '../../../dist/',
 
     // RACCOON:
-    meshURL: 'meshes/cartman.json',
+    meshURL: 'meshes/testeroo2.json',
     matParameters: {
       diffuseMapURL: 'textures/diffuse_dumpling.jpg',
       specularMapURL: 'textures/Fox_specular2.png',
