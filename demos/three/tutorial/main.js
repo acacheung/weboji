@@ -10,9 +10,9 @@ function main() {
     NNCPath: '../../../dist/',
 
     // RACCOON:
-    meshURL: 'meshes/kangaroo.json',
+    meshURL: 'meshes/cartman.json',
     matParameters: {
-      diffuseMapURL: 'textures/diffuse_kangaroo.jpg',
+      diffuseMapURL: 'textures/diffuse_dumpling.jpg',
       specularMapURL: 'textures/Fox_specular2.png',
     },
 
