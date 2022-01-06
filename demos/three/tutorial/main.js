@@ -10,14 +10,14 @@ function main() {
     NNCPath: '../../../dist/',
 
     // RACCOON:
-    meshURL: 'meshes/dumplin.json',
+    meshURL: 'meshes/kangaroo.json',
     matParameters: {
-      diffuseMapURL: 'textures/dumplin.jpg',
-      specularMapURL: 'textures/Fox_specular.png',
-      flexMapURL: 'textures/Fox_flex.png',
+      diffuseMapURL: 'textures/diffuse_kangaroo.jpg',
+      specularMapURL: 'textures/Fox_specular2.png',
     },
 
-    position: [0, -80, 0],
+    ambientLightIntensity: 0.6,
+    position: [-20, -60, 0],
     scale: 1.2,
   });
 }
